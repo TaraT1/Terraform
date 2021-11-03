@@ -1,0 +1,1 @@
+Unfortunately, docker is not playing nicely with Tf, so didn't work after upgrading docker desktop, removing settings in Application Data\Docker

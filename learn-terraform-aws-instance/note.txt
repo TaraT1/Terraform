@@ -1,0 +1,5 @@
+HashiCorp Tf tuts (https://learn.hashicorp.com/tutorials/terraform/aws-change?in=terraform/aws-get-started)
+
+Can version main.tf to practice
+
+EC2 instance is running per main.tf spex
